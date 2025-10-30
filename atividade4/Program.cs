@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 using atividade4;
 
 class Program
